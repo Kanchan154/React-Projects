@@ -31,7 +31,7 @@ export default function App() {
     return (
       <View style={styles.loadingContainer}>
         <ActivityIndicator size="large" color="#0984e3" />
-        <Text style={styles.loadingText}>Loading quotes...</Text>
+        <Text style={styles.loadingText}>Loading Quotes...</Text>
       </View>
     );
   }
