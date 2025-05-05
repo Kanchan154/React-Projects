@@ -1,0 +1,17 @@
+[
+    {
+        "name":"saurav",
+        "class":5,
+        "college":"SIT"
+    },
+    {
+        "name":"pratyush",
+        "class":8,
+        "college":"SIT"
+    },
+    {
+        "name":"yogesh",
+        "class":9,
+        "college":"lsm"
+    }
+]
